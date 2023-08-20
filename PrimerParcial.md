@@ -82,11 +82,3 @@
 * Señales
 
 ![Seniales](./Images/seniales.png)
-
-
-
-
-
-
-
-
